@@ -1,1 +1,1 @@
-export { Timer } from './src/index.js';
+export { Timer } from './lib/index.js';
